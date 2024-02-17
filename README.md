@@ -1,1 +1,1 @@
-https://lis351-ruiyao.github.io/
+lis351-ruiyao.github.io
